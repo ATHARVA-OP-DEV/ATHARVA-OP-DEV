@@ -19,9 +19,10 @@
 - 📫 How to reach me **rajeshkumar010308@gmail.com**
 
 - ⚡ Fun fact **I love to draw and i love to study**
-## Spotify Playing:
 
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
