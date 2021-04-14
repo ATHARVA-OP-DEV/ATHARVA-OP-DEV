@@ -21,7 +21,7 @@
 - ⚡ Fun fact **I love to draw and i love to study**
 ## Spotify Playing:
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Atharva Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
